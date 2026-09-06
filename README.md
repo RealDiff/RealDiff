@@ -2,9 +2,6 @@
 
 ### [**Project Page**](https://realdiff.github.io/) | [**Paper**](https://arxiv.org/abs/2409.10180)
 
-[Başak Melis Öcal](https://basakmelisocal.github.io/)<sup>1</sup>, [Maxim Tatarchenko](https://www.linkedin.com/in/tatarchm/)<sup>2</sup>, [Sezer Karaoğlu](https://karaoglusezer.github.io/)<sup>1</sup>, [Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/)<sup>1</sup>
-
-<sup>1</sup>University of Amsterdam &nbsp;&nbsp; <sup>2</sup>Bosch Center for Artificial Intelligence
 
 RealDiff formulates point cloud completion as a conditional generation problem directly on real-world measurements in a self-supervised way.
 
